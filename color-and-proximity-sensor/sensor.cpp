@@ -1,4 +1,4 @@
-#include "SENSOR.h"
+#include "Sensor.h"
 #include "Aduino.h"
 
 #include "Adafruit_TCS34725.h"
